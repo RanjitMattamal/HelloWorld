@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Diagnostics;
 using System.Linq;
@@ -17,7 +17,7 @@ namespace Hello_World.Controllers
 
         public IActionResult About()
         {
-            ViewData["Message"] = "Hello World from VS Code";
+            ViewData["Message"] = "Hello World Devops from VS Code";
 
             return View();
         }
