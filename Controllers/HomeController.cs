@@ -28,7 +28,7 @@ namespace Hello_World.Controllers
 
             return View();
         }
-//test commen
+//test comments
         public IActionResult Privacy()
         {
             return View();
